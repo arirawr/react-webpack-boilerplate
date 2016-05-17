@@ -1,6 +1,2 @@
-# IntelliJ project files
-.idea
-*.iml
-
 # Node
 /node_modules
